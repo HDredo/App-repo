@@ -1,3 +1,3 @@
 # APP
 
-Some descrpition
+Some description
